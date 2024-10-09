@@ -1,4 +1,4 @@
-# Sprint1-Mierda
+# Sprint1
 
 Smart Contracts:
 
